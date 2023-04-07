@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prac14</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="questions1">Столица Китая Гонконг?</string>
+    <string name="questions2">Валюта Канады евро?</string>
+    <string name="questions3">Волга самая длинная река в мире?</string>
+    <string name="questions4">Дирхамы валюта ОАЭ?</string>
+    <string name="questions5">Рим столица Испании?</string>
+</resources>
